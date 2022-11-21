@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329314182393",
+    "firebase_url": "https://doannhom1-2c557-default-rtdb.firebaseio.com",
+    "project_id": "doannhom1-2c557",
+    "storage_bucket": "doannhom1-2c557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329314182393:android:86d4ea4f9ad154fbec2e28",
+        "android_client_info": {
+          "package_name": "vn.edu.doannhom1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329314182393-edve474u2uuosdnsv0ohg8gd6cffiot1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlo3cNLgkZf-xSp_6XM1a_atD6YOdGRRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329314182393-edve474u2uuosdnsv0ohg8gd6cffiot1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
